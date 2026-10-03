@@ -1,0 +1,7 @@
+out/
+cache/
+broadcast/
+lib/**/.git
+.env
+.DS_Store
+*.log
